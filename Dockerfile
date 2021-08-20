@@ -1,5 +1,5 @@
-FROM debian:bullseye
-LABEL maintainer="Jeff Geerling"
+FROM debian:bookworm
+LABEL maintainer="Nicholas McDonnell"
 
 ARG DEBIAN_FRONTEND=noninteractive
 

@@ -12,6 +12,7 @@ RUN apt-get update \
        iproute2 \
        libffi-dev \
        libssl-dev \
+       procps \
        python3-apt \
        python3-dev \
        python3-pip \
